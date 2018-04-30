@@ -7,7 +7,7 @@ To get a development environment up and running you'll need:
 
 ### Overview
 
-Using the Star Wars Rest API [https://swapi.co](https://swapi.co) create a simple one-page application that retrieves list of Star Wars characters in readable form.
+Using the Star Wars Rest API [https://swapi.co](https://swapi.co) create a simple one-page application that retrieves list of Star Wars characters in readable form. Use [https://swapi.co/api/people/](https://swapi.co/api/people/) endpoint to retrieve the list in JSON format.
 
 ### Requirements
 
